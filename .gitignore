@@ -1,7 +1,7 @@
-Chimera/bin
-Chimera/obj
+FileStructureBuilder/bin
+FileStructureBuilder/obj
 
-Chimera.Test/bin
-Chimera.Test/obj
+FileStructureBuilder.Test/bin
+FileStructureBuilder.Test/obj
 
 /.vscode
